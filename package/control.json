@@ -1,0 +1,4 @@
+[
+	{"action": "elf-inject", "parameters": ["libxhook.so"]},
+	{"action": "elf-inject", "parameters": ["libclient.so"]}
+]
