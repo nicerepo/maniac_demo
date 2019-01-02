@@ -1,5 +1,8 @@
 # maniac_demo
 
+## Preview
+<img src="https://github.com/nicerepo/maniac_demo/raw/master/demo.gif" width="400" />
+
 ## Build
 1. Install `ndk` and `maniacli`.
 2. Install `/app` with Android Studio.
