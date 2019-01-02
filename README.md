@@ -1,7 +1,7 @@
 # maniac_demo
 
 ## Preview
-<img src="https://github.com/nicerepo/maniac_demo/raw/master/demo.gif" width="400" />
+<img src="https://github.com/nicerepo/maniac_demo/raw/master/demo.gif" width="480" />
 
 ## Build
 1. Install `ndk` and `maniacli`.
