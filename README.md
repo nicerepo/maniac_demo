@@ -11,5 +11,14 @@
 ## Installation
 Add your public key on MANIAC then install the package.
 
+### For use with emulator (AVD)
+For best results, launch AVD with the following parameters:
+
+```
+~/Android/Sdk/emulator/emulator -avd API_28_x86 -writable-system -selinux permissive -qemu -enable-kvm
+```
+
+If `su` daemon is not available, you may need to invoke `maniacrun` manually as root via `adb`.
+
 ## Acknowledgements
 * iqiyi/xHook (MIT)
